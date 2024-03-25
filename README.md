@@ -10,3 +10,6 @@ This dataset contains information on the world's largest public companies as lis
 6. **Market Value:** The market capitalization or total market value of the company's outstanding shares.
 
 The data was collected using web scraping techniques from the Forbes website, and it represents the latest available financial information as of the collection date. It's important to note that while efforts were made to ensure data accuracy, occasional discrepancies may exist due to factors such as changes in the Forbes website structure or variations in reporting practices among companies.
+
+# Check my kaggle account for details 
+source: https://www.kaggle.com/datasets/encrypted1/forbes-global-2000-companies
